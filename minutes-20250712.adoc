@@ -1,5 +1,7 @@
 = Meeting Agenda
 
+July 13, 2025
+
 Eat Lunch, reconnect with team, discuss groups, answer questions.
 
 == Roles and Responsibilities
@@ -37,7 +39,7 @@ The GBC Technology Group has three main subgroups:  sound, presentation, and str
 
 * Review workflows
 * Develop onboarding guides
-** Best practices: square slides, partially transparent text-box backgrounds, favor top of slide for words, copyrighted works, announcement slides, 
+** Best practices: square slides, partially transparent text-box backgrounds, favor top of slide for words, copyrighted works, announcement slides, recommended font face/family/size, chorus after verse
 
 === Streaming
 
@@ -51,15 +53,3 @@ The GBC Technology Group has three main subgroups:  sound, presentation, and str
 * Improving overflow
 
 
-
-
-
-== Other
-
-* A list item
-* Another list item
-
-[,ruby]
-----
-puts 'Hello, World!'
-----
