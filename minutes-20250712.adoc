@@ -14,11 +14,11 @@ The GBC Technology Group has three main subgroups:  sound, presentation, and str
 |Name|Responsibilities
 
 |Sam|Deacon,streaming
-|Alyssa|presentation,streaming
+|Alyssa|presentation
 |Dom|sound
 |Hal|presentation
 |Katy|streaming,post-production
-|Kristina|presentation
+|Kristina|presentation,streaming
 |Lorien|presentation
 |Micah|sound
 |Nate|sound
