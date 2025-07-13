@@ -1,0 +1,65 @@
+= Meeting Agenda
+
+Eat Lunch, reconnect with team, discuss groups, answer questions.
+
+== Roles and Responsibilities
+
+The GBC Technology Group has three main subgroups:  sound, presentation, and streaming.  The sound team handles setting up microphones and managing sound during services.  The presentation team handles creating PowerPoint presentations for use during the service.  The streaming team handles running the stream and changing presentation slides during the service, as well as editing streams and post-production.  These groups are explained in more detail below.
+
+.Team members
+[cols="1,1"]
+|===
+|Name|Responsibilities
+
+|Sam|Deacon,streaming
+|Alyssia|presentation,streaming
+|Dom|sound
+|Hal|presentation
+|Katy|streaming,post-production
+|Kristina|presentation
+|Lorien|presentation
+|Micah|sound
+|Nate|sound
+|Pete|sound
+
+|===
+
+== Agenda
+
+=== Sound
+
+* Any issues?
+* Develop onboarding guides
+** What are the boxes that need to be turned on and why?
+*** One of them is required for the stream to get sound?
+
+=== Presentation
+
+* Review workflows
+* Develop onboarding guides
+** Best practices: square slides, partially transparent text-box backgrounds, favor top of slide for words, copyrighted works, announcement slides, 
+
+=== Streaming
+
+* Troubleshooting notes
+* Develop onboarding guides
+** Best practices:  full screen prelude, scene numbering, 
+
+== Outstanding Actions
+
+* More people helping?
+* Improving overflow
+
+
+
+
+
+== Other
+
+* A list item
+* Another list item
+
+[,ruby]
+----
+puts 'Hello, World!'
+----
